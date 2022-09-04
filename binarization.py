@@ -10,5 +10,5 @@ while n != 0:
 for i in range(len(t) - 1, -1, -1):
     t1 += t[i]    
 print(t1)
-
+print(s)
 
