@@ -10,12 +10,11 @@
 
 # #  Задание 2.
 
-# name2 = input('Введите ваше имя: ') 
+# name2 = input('Введите ваше имя: ')
 
 # patronymic2 = input('Введите ваше отчество: ')
 
 # surname2 = input('Введите вашу фамилию: ')
-
 
 # print(name2 + ' ' + patronymic2 + ' ' + surname2)
 
@@ -48,8 +47,3 @@
 #     (print(a + ' ' + b + ' ' + c ))
 # elif question == 4:
 #     (print(a + '-' + b + '-' + c ))
-
-
-
-
-
